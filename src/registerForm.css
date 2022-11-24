@@ -1,0 +1,12 @@
+.register-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  width: 40%;
+  min-height: 25rem;
+  margin: auto;
+  padding: 1em;
+  border: 1px solid black;
+  border-radius: 25px;
+}
